@@ -1,4 +1,4 @@
-Product manager in health tech interested in improving patient outcomes and reducing costs. Experienced building web and desktop applications. 
+Product manager in health tech. Experienced building web and desktop applications. 
 
 In my free time, I love mountain biking and skiing.
 
