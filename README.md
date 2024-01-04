@@ -1,5 +1,5 @@
-Software Engineer and Product Manager in health tech. Experienced building web and desktop applications. 
+Software Engineer and Product Manager in health tech. Experienced building web and desktop applications to reduce costs and improve patient outcomes.
 
-In my free time, I love mountain biking and skiing.
+In my free time, I love mountain biking, skiing, and chess.
 
-For visual representations of some of my projects, head over to https://johnwdunn20.github.io/Welcome/
+Check out my personal website: https://johnwdunn20.github.io/Welcome/
